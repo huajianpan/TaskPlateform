@@ -1,0 +1,10 @@
+html,body{
+  /* min-width: 1000px; */
+  height: 150% !important;
+  width: 100% !important;
+}
+
+*{
+  padding: 0 !important;
+  margin: 0 !important;
+}
